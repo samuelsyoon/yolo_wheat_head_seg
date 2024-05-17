@@ -6,7 +6,7 @@
 YOLOv8m-seg (yolov8m-seg.pt) was trained for 10 epochs.
 
 # Dataset
-The Global Wheat Head Detection (GWHD) Dataset is a diverse dataset for wheat head detection. The wheat head images are collected from different countries at different growth stages with a variety of genotypes. 
+The Global Wheat Head Detection (GWHD) Dataset is contains wheat head images from several countries at different growth stages with a variety of genotypes. 
 
 Follow the link to below to view and download the dataset images.
 
