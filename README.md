@@ -52,7 +52,7 @@ All of the repository's images can be found in the "imgs" directory with two sub
 #### "predictions" folder
  * Examples of test images and YOLOv8-Seg predictions 
  * Four types of images
-  * orig - original image of the test image
-  * ground_truth - test image with ground truth masks (green)
-  * predictions - test image with ground truth masks (green) and YOLOv8-Seg predictions (red)
-  * predictions with numbers - test image with ground truth masks (green), YOLOv8-Seg predictions (red), and a number for each wheat head ground truth
+   * orig - original image of the test image
+   * ground_truth - test image with ground truth masks (green)
+   * predictions - test image with ground truth masks (green) and YOLOv8-Seg predictions (red)
+   * predictions with numbers - test image with ground truth masks (green), YOLOv8-Seg predictions (red), and a numerical ID for each wheat head ground truth
