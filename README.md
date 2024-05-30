@@ -3,7 +3,8 @@
 
 # Training
 
-YOLOv8m-seg (yolov8m-seg.pt) was trained for 10 epochs.
+YOLOv8m-seg (yolov8m-seg.pt) was trained for 10 epochs. 
+Follow this link to view the training script: https://colab.research.google.com/drive/1-iTP2w05qlLizFjPJWGrLWPu-mL4y4Ng#scrollTo=6FUlqegxq2SN
 
 # Dataset
 The Global Wheat Head Detection (GWHD) Dataset is contains wheat head images from several countries at different growth stages with a variety of genotypes. 
@@ -33,3 +34,9 @@ In the Universe Dataset Repository, there are three versions:
   * Saturation: Between -25% and +25%
   * Brightness: Between -15% and +15%
   * Exposure: Between -10% and +10%
+
+# SAM BBoxes to Masks
+The Segment Anything Model is an image segmentation model with zero shot capabilties.
+It was used to convert the bounding boxes of the GWHD into masks.
+Follow this link to view the code: https://colab.research.google.com/drive/1qq2hd4isNUniNDoVW0uNeTmN_eY0qICR
+
