@@ -1,5 +1,6 @@
 # YOLOv8-Seg Wheat Head Detection
 
+![alt text](https://github.com/samuelsyoon/yolo_wheat_head_seg/blob/main/imgs/predictions/predictions_with_numbers_0a9f24bdc.jpg)
 
 # Training
 
